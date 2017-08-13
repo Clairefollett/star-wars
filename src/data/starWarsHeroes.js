@@ -49,7 +49,7 @@ const heroes = [
             { episode: 'Star Wars: Episode 5', name: 'The Empire Strikes Back' },
             { episode: 'Star Wars: Episode 6', name: 'The Return of the Jedi' },
             { episode: 'Star Wars: Episode 7', name: 'The Force Awakens' },
-            { episode: 'Rogue One', name: 'Rogue One: A Star Wars Story'}
+            { episode: 'The prequel to Episode 4', name: 'Rogue One: A Star Wars Story'}
         ],
     },
 ]
