@@ -52,4 +52,28 @@ const heroes = [
             { episode: 'The prequel to Episode 4', name: 'Rogue One: A Star Wars Story'}
         ],
     },
+    {
+        id: 'anakin-skywalker',
+        name: 'Anakin Skywalker',
+        affiliations: [
+            {name: 'Jedi Oder', id: 1},
+        ],
+        planet: 'Tatooine',
+        species: 'Human',
+        // image: 'princess-leia.jpg',
+        link: 'http://www.starwars.com/databank/anakin-skywalker',
+        family: [
+            { step_father: 'Cliegg Lars' },
+            { mother: 'Shmi Skywalker' },
+            { son: 'Luke Skywalker' },
+            { daughter: 'Princess Leia'}
+        ],
+        // appearances: [
+        //     { episode: 'Star Wars: Episode 4', name: 'A New Hope' },
+        //     { episode: 'Star Wars: Episode 5', name: 'The Empire Strikes Back' },
+        //     { episode: 'Star Wars: Episode 6', name: 'The Return of the Jedi' },
+        //     { episode: 'Star Wars: Episode 7', name: 'The Force Awakens' },
+        //     { episode: 'The prequel to Episode 4', name: 'Rogue One: A Star Wars Story'}
+        // ],
+    },
 ]
